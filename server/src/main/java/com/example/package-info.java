@@ -1,4 +1,4 @@
 /**
 * This is a random stuff
 */
-package com.example
+package com.example;
